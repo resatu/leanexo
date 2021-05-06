@@ -4,7 +4,7 @@ const About = () => {
         <div>
             {
                 myArr.map(i => {
-                    return <h1 key={i} className="text-5xl text-red-800" >About Page</h1>
+                    return <h1 key={i} className="text-5xl text-red-800" >Page About</h1>
                 }
                 )
             }
