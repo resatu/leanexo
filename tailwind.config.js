@@ -10,3 +10,4 @@ module.exports = {
   },
   plugins: [],
 }
+// this is a comment
