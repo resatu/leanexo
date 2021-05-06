@@ -1,5 +1,6 @@
 const About = () => {
     var myArr = [1, 2, 3, 4];
+    // burdaki array sayisi kadar cikti uretilir
     return (
         <div>
             {
@@ -18,4 +19,3 @@ export default About
 // const a = [a, b, c, d, e, f]
 // return ({
 //     a.forEach(i => { <h1>About Page</h1> })
-// })
