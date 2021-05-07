@@ -1,19 +1,24 @@
 Used technology
 
-Next.js
-Tailwind.css
+    Next.js
+    Tailwind.css
+
+Useful Links
+
+    Heroicons
+    https://heroicons.com/
 
 Mainly Used Shortcuts 
 
-Introduction
-(Ctrl + C) Copy/(Ctrl + X) Cut/(Ctrl + V) Paste Whole Lines
-(Ctrl + /) Toggle Comment on Highlighted Lines
-(Ctrl + P) Open File Within Project By Name
-(Ctrl + F) Find In File, (Ctrl + Shift + F) Find In Project
-(Tab) Indent Highlighted Lines, (Shift + Tab) Unindent Highlighted Lines
-(Ctrl + N) Create New File
-(Ctrl + Enter) Create New Line Below Current Line Independent of Cursor Position
-(Ctrl + Left/Right Arrow) Move Cursor Whole Words At A Time
-(Shift + Left/Right Arrow) Highlight Characters With Arrow Keys
-(Ctrl + S) Save File, (Ctrl + A) Select All, (Ctrl + Z) Undo, 
-(Ctrl + Shift + Z)/(Ctrl + Y) Redo
+    Introduction
+    (Ctrl + C) Copy/(Ctrl + X) Cut/(Ctrl + V) Paste Whole Lines
+    (Ctrl + /) Toggle Comment on Highlighted Lines
+    (Ctrl + P) Open File Within Project By Name
+    (Ctrl + F) Find In File, (Ctrl + Shift + F) Find In Project
+    (Tab) Indent Highlighted Lines, (Shift + Tab) Unindent Highlighted Lines
+    (Ctrl + N) Create New File
+    (Ctrl + Enter) Create New Line Below Current Line Independent of Cursor Position
+    (Ctrl + Left/Right Arrow) Move Cursor Whole Words At A Time
+    (Shift + Left/Right Arrow) Highlight Characters With Arrow Keys
+    (Ctrl + S) Save File, (Ctrl + A) Select All, (Ctrl + Z) Undo, 
+    (Ctrl + Shift + Z)/(Ctrl + Y) Redo
