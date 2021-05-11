@@ -1,7 +1,16 @@
+Tasks
+
+    [] Decide on the flow
+    [] Write the first version
+    [] Build backend
+
 Used technology
 
     Next.js
     Tailwind.css
+    Database: Firestore 
+    Authentication: Firebase OAuth
+    CI/CD: Vercel 
 
 Useful Links
 
