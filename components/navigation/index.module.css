@@ -1,0 +1,4 @@
+.nav { 
+    @apply
+    flex items-center justify-between flex-wrap bg-teal p-6
+}
