@@ -1,4 +1,4 @@
 .nav { 
     @apply
-    flex items-center justify-between flex-wrap bg-teal p-6
+    flex items-center justify-between flex-wrap bg-white p-6
 }
