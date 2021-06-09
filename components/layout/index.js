@@ -4,7 +4,7 @@ import Footer from '../footer'
 
 export default function Layout({ children }) {
     return (
-        <div>
+        <div className="flex flex-col max-w-screen-xl m-auto">
             <Head>
                 <title>
                     Lean ExO
